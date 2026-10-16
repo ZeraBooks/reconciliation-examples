@@ -1,0 +1,11 @@
+Line,Beginning balance,Receipts,Disbursements,Ending balance,Row check (beginning + receipts - disbursements - ending)
+Balance per bank,48210.00,61385.40,57902.15,51693.25,0.00
+"Deposit in transit, prior period end",3150.00,-3150.00,,,0.00
+"Deposit in transit, current period end",,4820.00,,4820.00,0.00
+"Outstanding checks, prior period end",-2640.00,,-2640.00,,0.00
+"Outstanding checks, current period end",,,5115.60,-5115.60,0.00
+"NSF customer check, not yet in books",,,-750.00,750.00,0.00
+"Bank service fee, not yet in books",,,-45.00,45.00,0.00
+"Interest credited, not yet in books",,-18.37,,-18.37,0.00
+Balance per books,48720.00,63037.03,59582.75,52174.28,0.00
+Source,"ZeraBooks proof of cash example (fictional figures, March 2026): https://www.zerabooks.com/proof-of-cash",,,,

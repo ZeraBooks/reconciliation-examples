@@ -1,0 +1,9 @@
+Date,Account,Account holder,Description,Amount,Category,Flag,Pair
+01/03/2025,Checking 2210,Joint,PAYROLL ACME CORP,4812.66,Wages,,
+01/06/2025,Checking 2210,Joint,TRANSFER TO SAV 7781,-5000.00,Transfer,Round sum to an account in one name,T1
+01/06/2025,Savings 7781,Spouse B,TRANSFER FROM CHK 2210,5000.00,Transfer,Pairs with the line above,T1
+01/10/2025,Checking 2210,Joint,ATM WITHDRAWAL,-800.00,Cash,,
+01/14/2025,Checking 2210,Joint,ATM WITHDRAWAL,-800.00,Cash,Second 800 in cash in a week,
+01/22/2025,Card 4409,Spouse A,GOLDLINE JEWELERS,-2350.00,Personal,"Large purchase, new payee",
+01/27/2025,Checking 2210,Joint,ZELLE TO M HART,-1200.00,Unknown,New payee; ask who this is,
+01/31/2025,Checking 2210,Joint,MOBILE DEPOSIT,3000.00,Unknown,Not pay; ask for the source,

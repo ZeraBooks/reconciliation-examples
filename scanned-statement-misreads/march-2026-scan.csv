@@ -1,0 +1,11 @@
+Line,Date,Description,Read from scan,Corrected,Difference
+Opening balance (printed),03/01/2026,,12480.16,12480.16,0.00
+Row,03/02/2026,Deposit,4200.00,4200.00,0.00
+Row,03/04/2026,Check 1043,-1385.00,-1335.00,-50.00
+Row,03/09/2026,ACH Payroll,-3912.48,-3912.48,0.00
+Row,03/15/2026,Deposit,2756.30,2756.30,0.00
+Row,03/21/2026,Rent (page 2),-2450.00,-2450.00,0.00
+Row,03/31/2026,Service fee (page 2),-15.00,-15.00,0.00
+Opening plus rows,,,11673.98,11723.98,-50.00
+Closing balance (printed),03/31/2026,,11723.98,11723.98,0.00
+Gap (opening plus rows minus closing),,,-50.00,0.00,

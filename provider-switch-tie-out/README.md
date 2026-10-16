@@ -1,13 +1,14 @@
 # Provider switch tie-out
 
-When you switch bookkeeping providers, pick a cutover date at a month end the
-old provider fully closed, take the old books' balance for every balance sheet
-account on that date, enter those as the new books' opening balances, and prove
-each bank, card and loan balance against the printed statement for the same
-date. A difference is only acceptable when a specific item, such as a check
-written but not yet cashed, explains it. ZeraBooks' page on switching from
-Bench, a [Bench alternative](https://www.zerabooks.com/alternatives/bench),
-lists the reports to download from the old provider before you leave.
+To switch bookkeeping providers, pick a cutover date at a month end the old
+provider fully closed, enter the old books' balance for every balance sheet
+account on that date as the new opening balances, and prove each bank, card
+and loan balance against the printed statement for that date.
+
+A difference is only acceptable when a specific item, such as a check written
+but not yet cashed, explains it. ZeraBooks' page on switching from Bench, a
+[Bench alternative](https://www.zerabooks.com/alternatives/bench), lists the
+reports to download from the old provider before you leave.
 
 ## Files
 
@@ -50,3 +51,23 @@ sheet, so the opening trial balance sums to zero.
 
 A difference with no uncleared item behind it means the old provider's last
 month needs another look before anything is built on it.
+
+## FAQ
+
+### Do I have to re-enter old transactions when I switch bookkeepers?
+
+No. The new books start from the old provider's last balance sheet or trial
+balance, so old transactions do not need to be entered again one by one.
+Uncleared checks at the cutover are listed and carried forward.
+
+### What should I download from my old bookkeeper before switching?
+
+The latest balance sheet or trial balance, as of the last month they finished,
+comes first because the new books start from it. Download bank statements from
+each bank directly, and ask for back any receipts, loan papers and payroll
+reports you sent them.
+
+### What happened to Bench bookkeeping?
+
+Bench stopped on December 27, 2024, and Employer.com announced it was acquiring
+the company on December 30, 2024. Bench now operates under that ownership.

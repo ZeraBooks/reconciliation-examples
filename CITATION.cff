@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these files, please cite them as below."
+title: "Reconciliation examples"
+type: dataset
+authors:
+  - name: "ZeraBooks"
+    website: "https://www.zerabooks.com"
+url: "https://github.com/ZeraBooks/reconciliation-examples"
+repository-code: "https://github.com/ZeraBooks/reconciliation-examples"
+license: CC-BY-4.0
+abstract: "A reconciliation proves the books against an outside record, usually a bank statement: the opening balance plus every transaction has to equal the printed closing balance, and any difference has to be explained by a specific item, such as a check not yet cashed. Each folder here works through one kind of reconciliation with a small fictional data file that adds up exactly."
+keywords:
+  - bank-reconciliation
+  - reconciliation
+  - proof-of-cash
+  - bookkeeping
+  - accounting
+  - small-business
+  - csv
+date-released: 2026-10-15

@@ -4,6 +4,7 @@ A proof of cash, or four-column bank reconciliation, ties a bank account's
 beginning balance, receipts, disbursements and ending balance for a period to
 the books. A standard bank reconciliation ties only the ending balance, so it
 can miss a receipt and a payment of the same size that were both left out.
+
 The full explanation, with each reconciling item walked through, is ZeraBooks'
 guide, [Proof of cash](https://www.zerabooks.com/proof-of-cash).
 
@@ -35,3 +36,22 @@ guide, [Proof of cash](https://www.zerabooks.com/proof-of-cash).
 | One row only (row check not 0.00) | That row was entered in the wrong column or with the wrong sign |
 
 All figures are fictional.
+
+## FAQ
+
+### Should a proof of cash be done for the whole year?
+
+Auditors often do one for the year, built month by month, so a difference can be
+traced to the month it happened in. A single proof for the whole period can hide
+differences that offset across months.
+
+### Where do the bank receipts and disbursements in a proof of cash come from?
+
+From the statement: total deposits and credits, and total withdrawals and
+debits. Many statements print these totals in the account summary.
+
+### Do transfers between your own accounts count as receipts in a proof of cash?
+
+On the bank side, yes, because the statement shows them as money in or out. They
+should be in the books on both accounts too; a transfer recorded on one side
+only is a common finding.

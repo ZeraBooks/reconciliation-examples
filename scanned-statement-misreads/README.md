@@ -45,3 +45,22 @@ produce each. Usually only one can.
 - Two errors that cancel each other pass the closing-balance check. A printed
   running balance, compared line by line, catches them.
 - Run the check per account on multi-account statements.
+
+## FAQ
+
+### Do I need OCR software before converting a scanned bank statement?
+
+No. ZeraBooks reads the page image itself, so the scan can be uploaded as it is.
+Running your own OCR first does no harm, but it does not replace the balance
+check.
+
+### How accurate is converting a scanned bank statement to Excel?
+
+It depends on the scan, so a percentage tells you little. What counts is whether
+the rows tie to the opening and closing balances printed on the statement to the
+cent.
+
+### Can I convert a photo of a bank statement?
+
+Put the photos into one PDF first; most phones and scanners can save straight to
+PDF. Pages photographed flat, in good light and without a shadow read best.

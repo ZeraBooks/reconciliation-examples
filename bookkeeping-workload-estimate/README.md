@@ -3,9 +3,11 @@
 The fastest way to estimate how many hours of bookkeeping a business needs is
 to count last month's statement lines across every bank and card account and
 multiply by a few minutes per line, then add fixed monthly jobs such as payroll
-entries, inventory and month-end reports. At an assumed 2.7 minutes per line,
-180 lines comes to about 8 hours a month. Those hours are what any bookkeeping
-quote is really pricing, whoever does the work. ZeraBooks' guide,
+entries, inventory and month-end reports.
+
+At an assumed 2.7 minutes per line, 180 lines comes to about 8 hours a month.
+Those hours are what any bookkeeping quote is really pricing, whoever does the
+work. ZeraBooks' guide,
 [How much does a bookkeeper cost](https://www.zerabooks.com/how-much-does-a-bookkeeper-cost),
 prices one business of this size four ways.
 
@@ -53,3 +55,22 @@ All figures are illustrative.
   180 to 400 lines has more than doubled its bookkeeping.
 - Price catch-up or cleanup months separately. This sheet estimates an ordinary
   month with the books already up to date.
+
+## FAQ
+
+### How many hours a month does a small business need for bookkeeping?
+
+A business with a few accounts and under 200 transactions a month usually needs
+a few hours of work. Payroll, inventory and bills tracked one by one add to
+that.
+
+### Is catch-up bookkeeping included in a monthly bookkeeping quote?
+
+Usually not. Months that were never done, or books that need fixing, are quoted
+once on top of the monthly fee.
+
+### Is a bookkeeper cheaper than an accountant?
+
+Usually, because bookkeeping is recurring recording and reconciling, while
+accountants and CPAs charge more for tax returns and advice. Many businesses pay
+a bookkeeper monthly and a tax preparer once a year.

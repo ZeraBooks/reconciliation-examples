@@ -4,8 +4,10 @@ A bookkeeping cleanup goes account by account, oldest month first: a month only
 counts as done when it ties to its printed statement, and the next month starts
 from that proven closing balance. A statement grid (accounts down, months
 across) shows at a glance which statements are in, which are proven and where
-the work is stuck. The full order of a cleanup, from gathering statements to
-the handover, is in ZeraBooks' guide to
+the work is stuck.
+
+The full order of a cleanup, from gathering statements to the handover, is in
+ZeraBooks' guide to
 [bookkeeping cleanup](https://www.zerabooks.com/bookkeeping-cleanup).
 
 ## Files
@@ -46,3 +48,22 @@ month, nothing before it needs to be opened again.
 
 A row should never show Tied after a cell that isn't Tied. If it does, that
 later month was tied to a balance that hasn't been proven.
+
+## FAQ
+
+### Do I need every bank statement for a bookkeeping cleanup?
+
+Yes, for every account and every month in the cleanup, because a month can only
+be proven against its own statement. Most banks let you download past statements
+as PDFs from online banking.
+
+### What is the difference between cleanup and catch-up bookkeeping?
+
+A cleanup corrects books that exist. Catch-up bookkeeping records months that
+were never entered, and most businesses that are behind need some of each.
+
+### Will a cleanup change numbers my accountant already filed?
+
+It should not. A cleanup normally starts after the last period your accountant
+signed off and leaves that period alone; a mistake found inside a filed year is
+a question for your accountant.

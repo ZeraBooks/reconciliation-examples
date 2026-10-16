@@ -1,5 +1,11 @@
 # Divorce disclosure timeline
 
+To organize bank statements for a divorce, put every account's transactions
+into one timeline with Date, Account, Account holder, Description and Amount,
+then add review columns for Category, Flag and Pair. Before anyone relies on
+it, prove each statement against its printed balances and check that no month
+is missing.
+
 A column layout for turning several accounts' bank and card statements into one
 transaction timeline for family law review, with a fictional month as an
 example. The full guide, including how to prove the statements are complete,
@@ -35,3 +41,22 @@ and what is produced or filed; courts generally want the statements themselves.
    balance for the same account. A break means a missing statement.
 3. Every transfer out has a Pair. One without a Pair, in any disclosed account,
    points to an account or statement not yet produced.
+
+## FAQ
+
+### Can credit card statements go in a divorce disclosure timeline?
+
+Yes. Card statements go in the same timeline, each one proven against its
+previous and new balance, with every line tied to the cardholder it was printed
+under.
+
+### Can I combine statements from different banks in one spreadsheet?
+
+Yes. Read each statement on its own and prove it, then stack them in one sheet
+with the Account column telling the banks and accounts apart.
+
+### Will a court accept a spreadsheet instead of bank statements?
+
+That is for the attorney and the court's rules. Most courts want the statements
+themselves produced; the spreadsheet is the working summary that makes them
+readable.

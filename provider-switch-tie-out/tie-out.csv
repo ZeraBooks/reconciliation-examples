@@ -1,0 +1,9 @@
+Account,Old books balance at cutover,New opening balance,Difference,Explanation
+Business checking 6620,31406.12,31406.12,0.00,"Printed statement shows 32,186.12. Check 2291 for 780.00, written Dec 30, cleared Jan 5; listed as an uncleared check, so the opening balance stays at the books figure"
+Savings 6638,40000.00,40000.00,0.00,Agrees with the printed statement
+Business credit card 3307,-3912.45,-3912.45,0.00,Agrees with the printed new balance on the statement closing Dec 31
+Accounts receivable,8650.00,8650.00,0.00,Agrees with the open invoices list: four invoices
+Accounts payable,-2275.00,-2275.00,0.00,Agrees with the unpaid bills list: three bills
+Sales tax payable,-1184.30,-1184.30,0.00,"Agrees with the December sales tax return, paid Jan 20"
+Equipment loan,-17250.00,-17250.00,0.00,Agrees with the lender's Dec 31 statement
+Owner equity and retained earnings,-55434.37,-55434.37,0.00,"Balancing figure: assets less liabilities above. Agrees with the old balance sheet, so the new trial balance sums to zero"

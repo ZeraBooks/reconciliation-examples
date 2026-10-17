@@ -14,6 +14,7 @@ reconciliation with a small fictional data file that adds up exactly.
 | [`cleanup-statement-grid/`](cleanup-statement-grid/) | A grid of accounts by month showing which statements are in, tied or off, worked oldest month first | [How a bookkeeping cleanup works](https://www.zerabooks.com/bookkeeping-cleanup) |
 | [`provider-switch-tie-out/`](provider-switch-tie-out/) | Old books' balances at a cutover date tied to the new opening balances, with one uncleared check explained | [Moving your books after Bench](https://www.zerabooks.com/alternatives/bench) |
 | [`bookkeeping-workload-estimate/`](bookkeeping-workload-estimate/) | Monthly bookkeeping hours estimated from statement line counts plus fixed jobs | [How much a bookkeeper costs](https://www.zerabooks.com/how-much-does-a-bookkeeper-cost) |
+| [`combined-statements-continuity/`](combined-statements-continuity/) | A year of statements combined into one file, with a missing month and an overlapping export found from the balances and dates | [Combining bank statements into one Excel file](https://www.zerabooks.com/combine-bank-statements) |
 
 All figures are fictional.
 
@@ -26,6 +27,8 @@ All figures are fictional.
 - To check a proof of cash in this layout, run
   `python3 proof-of-cash/check_proof.py proof-of-cash/proof-of-cash-template.csv`
   (Python 3, standard library only).
+- To check combined statements for a missing month or an overlap, run
+  `python3 combined-statements-continuity/check_continuity.py combined-statements-continuity/statements.csv combined-statements-continuity/overlap-lines.csv`.
 
 ## License
 

@@ -1,0 +1,13 @@
+Entry,Date,Description,Account,Debit,Credit
+1,2026-03-02,Owner investment,Cash,10000.00,
+1,2026-03-02,Owner investment,Owner's equity,,10000.00
+2,2026-03-04,Laptop on the business card,Equipment,2400.00,
+2,2026-03-04,Laptop on the business card,Credit card payable,,2400.00
+3,2026-03-10,Invoice 1001 to client,Accounts receivable,6500.00,
+3,2026-03-10,Invoice 1001 to client,Design revenue,,6500.00
+4,2026-03-20,Client pays part of invoice 1001,Cash,4000.00,
+4,2026-03-20,Client pays part of invoice 1001,Accounts receivable,,4000.00
+5,2026-03-25,March rent,Rent expense,1800.00,
+5,2026-03-25,March rent,Cash,,1800.00
+6,2026-03-28,Design software on the card,Software expense,120.00,
+6,2026-03-28,Design software on the card,Credit card payable,,120.00

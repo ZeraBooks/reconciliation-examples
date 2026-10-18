@@ -1,0 +1,9 @@
+Side,Item,Reference,Amount
+Bank,Statement closing balance,2026-05-31,19312.40
+Bank,Deposit in transit,2026-05-31 takings,2150.00
+Bank,Outstanding check,1043,-1240.00
+Bank,Outstanding check,1045,-1825.65
+Books,Ledger balance,2026-05-31,18402.55
+Books,Bank fee not in books,Monthly service fee,-35.00
+Books,Interest not in books,May interest,2.20
+Books,Check recorded wrong,1039 recorded 452.00 cleared 425.00,27.00

@@ -15,6 +15,8 @@ reconciliation with a small fictional data file that adds up exactly.
 | [`provider-switch-tie-out/`](provider-switch-tie-out/) | Old books' balances at a cutover date tied to the new opening balances, with one uncleared check explained | [Moving your books after Bench](https://www.zerabooks.com/alternatives/bench) |
 | [`bookkeeping-workload-estimate/`](bookkeeping-workload-estimate/) | Monthly bookkeeping hours estimated from statement line counts plus fixed jobs | [How much a bookkeeper costs](https://www.zerabooks.com/how-much-does-a-bookkeeper-cost) |
 | [`combined-statements-continuity/`](combined-statements-continuity/) | A year of statements combined into one file, with a missing month and an overlapping export found from the balances and dates | [Combining bank statements into one Excel file](https://www.zerabooks.com/combine-bank-statements) |
+| [`bank-reconciliation-steps/`](bank-reconciliation-steps/) | One month with a deposit in transit, two outstanding checks, a fee, interest and a transposed amount, both sides tying to 18,396.75 | [How to do a bank reconciliation](https://www.zerabooks.com/how-to-do-a-bank-reconciliation) |
+| [`general-ledger-month/`](general-ledger-month/) | Six journal entries turned into a trial balance that balances at 19,020.00 | [What is a general ledger?](https://www.zerabooks.com/what-is-a-general-ledger) |
 
 All figures are fictional.
 
@@ -27,6 +29,10 @@ All figures are fictional.
 - To check a proof of cash in this layout, run
   `python3 proof-of-cash/check_proof.py proof-of-cash/proof-of-cash-template.csv`
   (Python 3, standard library only).
+- To check a bank reconciliation, run
+  `python3 bank-reconciliation-steps/check_reconciliation.py bank-reconciliation-steps/bank-reconciliation.csv`.
+- To build a trial balance from journal entries, run
+  `python3 general-ledger-month/check_trial_balance.py general-ledger-month/journal.csv`.
 - To check combined statements for a missing month or an overlap, run
   `python3 combined-statements-continuity/check_continuity.py combined-statements-continuity/statements.csv combined-statements-continuity/overlap-lines.csv`.
 

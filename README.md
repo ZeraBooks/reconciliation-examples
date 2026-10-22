@@ -17,6 +17,7 @@ reconciliation with a small fictional data file that adds up exactly.
 | [`combined-statements-continuity/`](combined-statements-continuity/) | A year of statements combined into one file, with a missing month and an overlapping export found from the balances and dates | [Combining bank statements into one Excel file](https://www.zerabooks.com/combine-bank-statements) |
 | [`bank-reconciliation-steps/`](bank-reconciliation-steps/) | One month with a deposit in transit, two outstanding checks, a fee, interest and a transposed amount, both sides tying to 18,396.75 | [How to do a bank reconciliation](https://www.zerabooks.com/how-to-do-a-bank-reconciliation) |
 | [`general-ledger-month/`](general-ledger-month/) | Six journal entries turned into a trial balance that balances at 19,020.00 | [What is a general ledger?](https://www.zerabooks.com/what-is-a-general-ledger) |
+| [`sales-tax-tie-out/`](sales-tax-tie-out/) | Three months of sales tax payable rolled forward to the cent, with sales times rate catching a 4.50 shortfall in June | [Month-end close checklist](https://www.zerabooks.com/month-end-close-checklist) |
 
 All figures are fictional.
 
@@ -33,6 +34,8 @@ All figures are fictional.
   `python3 bank-reconciliation-steps/check_reconciliation.py bank-reconciliation-steps/bank-reconciliation.csv`.
 - To build a trial balance from journal entries, run
   `python3 general-ledger-month/check_trial_balance.py general-ledger-month/journal.csv`.
+- To roll forward sales tax payable and compare it with sales times rate, run
+  `python3 sales-tax-tie-out/check_sales_tax.py sales-tax-tie-out/sales-tax.csv`.
 - To check combined statements for a missing month or an overlap, run
   `python3 combined-statements-continuity/check_continuity.py combined-statements-continuity/statements.csv combined-statements-continuity/overlap-lines.csv`.
 

@@ -30,7 +30,7 @@ June is the one to look at. Taxable sales of 44,120.00 at 7.25% should produce
 3,198.70, but the ledger collected 3,194.20, which is 4.50 less. The ledger
 and the payable agree with each other, so the roll-forward still ties; the gap
 means one or more invoices were taxed at the wrong amount or marked non-taxable
-(4.50 is 62.07 of sales at 7.25%). Fix those invoices before filing, not the
+(4.50 of tax is about 62 of sales at 7.25%). Fix those invoices before filing, not the
 payable.
 
 ## What the script does not do

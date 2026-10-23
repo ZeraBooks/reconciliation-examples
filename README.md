@@ -18,6 +18,7 @@ reconciliation with a small fictional data file that adds up exactly.
 | [`bank-reconciliation-steps/`](bank-reconciliation-steps/) | One month with a deposit in transit, two outstanding checks, a fee, interest and a transposed amount, both sides tying to 18,396.75 | [How to do a bank reconciliation](https://www.zerabooks.com/how-to-do-a-bank-reconciliation) |
 | [`general-ledger-month/`](general-ledger-month/) | Six journal entries turned into a trial balance that balances at 19,020.00 | [What is a general ledger?](https://www.zerabooks.com/what-is-a-general-ledger) |
 | [`sales-tax-tie-out/`](sales-tax-tie-out/) | Three months of sales tax payable rolled forward to the cent, with sales times rate catching a 4.50 shortfall in June | [Month-end close checklist](https://www.zerabooks.com/month-end-close-checklist) |
+| [`unapplied-customer-payments/`](unapplied-customer-payments/) | Four October payments sorted into prepayment, apply now and no invoice, with A/R tied at 391.40 | [How to fix unapplied payments in QuickBooks Online](https://www.zerabooks.com/how-to/how-to-fix-unapplied-payments-quickbooks-online) |
 
 All figures are fictional.
 
@@ -38,6 +39,8 @@ All figures are fictional.
   `python3 sales-tax-tie-out/check_sales_tax.py sales-tax-tie-out/sales-tax.csv`.
 - To check combined statements for a missing month or an overlap, run
   `python3 combined-statements-continuity/check_continuity.py combined-statements-continuity/statements.csv combined-statements-continuity/overlap-lines.csv`.
+- To sort unapplied customer payments and tie A/R, run
+  `python3 unapplied-customer-payments/check_unapplied.py unapplied-customer-payments/invoices.csv unapplied-customer-payments/payments.csv`.
 
 ## License
 

@@ -10,15 +10,15 @@ reconciliation with a small fictional data file that adds up exactly.
 |---|---|---|
 | [`proof-of-cash/`](proof-of-cash/) | A four-column proof of cash template and a script that checks it | [Proof of cash, the four-column bank reconciliation](https://www.zerabooks.com/proof-of-cash) |
 | [`scanned-statement-misreads/`](scanned-statement-misreads/) | How one misread amount on a scanned statement shows up as a gap against the printed closing balance | [Converting a scanned bank statement to Excel](https://www.zerabooks.com/scanned-bank-statement-to-excel) |
-| [`divorce-disclosure-timeline/`](divorce-disclosure-timeline/) | One month of statements laid out for a financial disclosure, tied to opening and closing balances | [Organizing bank statements for a divorce](https://www.zerabooks.com/bank-statements-for-divorce) |
-| [`cleanup-statement-grid/`](cleanup-statement-grid/) | A grid of accounts by month showing which statements are in, tied or off, worked oldest month first | [How a bookkeeping cleanup works](https://www.zerabooks.com/bookkeeping-cleanup) |
-| [`provider-switch-tie-out/`](provider-switch-tie-out/) | Old books' balances at a cutover date tied to the new opening balances, with one uncleared check explained | [Moving your books after Bench](https://www.zerabooks.com/alternatives/bench) |
-| [`bookkeeping-workload-estimate/`](bookkeeping-workload-estimate/) | Monthly bookkeeping hours estimated from statement line counts plus fixed jobs | [How much a bookkeeper costs](https://www.zerabooks.com/how-much-does-a-bookkeeper-cost) |
-| [`combined-statements-continuity/`](combined-statements-continuity/) | A year of statements combined into one file, with a missing month and an overlapping export found from the balances and dates | [Combining bank statements into one Excel file](https://www.zerabooks.com/combine-bank-statements) |
-| [`bank-reconciliation-steps/`](bank-reconciliation-steps/) | One month with a deposit in transit, two outstanding checks, a fee, interest and a transposed amount, both sides tying to 18,396.75 | [How to do a bank reconciliation](https://www.zerabooks.com/how-to-do-a-bank-reconciliation) |
-| [`general-ledger-month/`](general-ledger-month/) | Six journal entries turned into a trial balance that balances at 19,020.00 | [What is a general ledger?](https://www.zerabooks.com/what-is-a-general-ledger) |
-| [`sales-tax-tie-out/`](sales-tax-tie-out/) | Three months of sales tax payable rolled forward to the cent, with sales times rate catching a 4.50 shortfall in June | [Month-end close checklist](https://www.zerabooks.com/month-end-close-checklist) |
-| [`unapplied-customer-payments/`](unapplied-customer-payments/) | Four October payments sorted into prepayment, apply now and no invoice, with A/R tied at 391.40 | [How to fix unapplied payments in QuickBooks Online](https://www.zerabooks.com/how-to/how-to-fix-unapplied-payments-quickbooks-online) |
+| [`divorce-disclosure-timeline/`](divorce-disclosure-timeline/) | One month of statements laid out for a financial disclosure, tied to opening and closing balances | Organizing bank statements for a divorce |
+| [`cleanup-statement-grid/`](cleanup-statement-grid/) | A grid of accounts by month showing which statements are in, tied or off, worked oldest month first | How a bookkeeping cleanup works |
+| [`provider-switch-tie-out/`](provider-switch-tie-out/) | Old books' balances at a cutover date tied to the new opening balances, with one uncleared check explained | Moving your books after Bench |
+| [`bookkeeping-workload-estimate/`](bookkeeping-workload-estimate/) | Monthly bookkeeping hours estimated from statement line counts plus fixed jobs | How much a bookkeeper costs |
+| [`combined-statements-continuity/`](combined-statements-continuity/) | A year of statements combined into one file, with a missing month and an overlapping export found from the balances and dates | Combining bank statements into one Excel file |
+| [`bank-reconciliation-steps/`](bank-reconciliation-steps/) | One month with a deposit in transit, two outstanding checks, a fee, interest and a transposed amount, both sides tying to 18,396.75 | How to do a bank reconciliation |
+| [`general-ledger-month/`](general-ledger-month/) | Six journal entries turned into a trial balance that balances at 19,020.00 | What is a general ledger? |
+| [`sales-tax-tie-out/`](sales-tax-tie-out/) | Three months of sales tax payable rolled forward to the cent, with sales times rate catching a 4.50 shortfall in June | Month-end close checklist |
+| [`unapplied-customer-payments/`](unapplied-customer-payments/) | Four October payments sorted into prepayment, apply now and no invoice, with A/R tied at 391.40 | How to fix unapplied payments in QuickBooks Online |
 
 All figures are fictional.
 
@@ -47,4 +47,4 @@ All figures are fictional.
 The content and data in this repository are licensed under
 [CC BY 4.0](LICENSE). Free to use and adapt with credit to ZeraBooks.
 
-Maintained by [ZeraBooks](https://www.zerabooks.com).
+Maintained by ZeraBooks.
